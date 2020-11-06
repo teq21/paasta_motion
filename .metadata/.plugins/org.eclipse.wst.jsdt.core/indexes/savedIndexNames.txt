@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\paasta_motion\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1440043936.index
+2357771347.index
+32162429.index
+692101018.index
+2202910331.index
+1986296565.index
+3718307122.index
